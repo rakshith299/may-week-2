@@ -35,6 +35,10 @@
     font-size: 25px;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .c-link{
     text-decoration: none;
     color: rgb(245, 234, 234);
@@ -42,6 +46,7 @@
     font-weight: bold;
     font-family: cursive;
     margin-left: 10px;
+    
 }
 
 .c-link:hover{
